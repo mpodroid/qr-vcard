@@ -1,2 +1,4 @@
 qr-codes/*.jpg
+qr-codes/*.jpeg
+qr-codes/*.png
 qr-codes/*.vcf*
